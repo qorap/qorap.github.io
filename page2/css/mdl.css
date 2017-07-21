@@ -4,7 +4,9 @@
     margin: auto;
 }
 
-
+header {
+	overflow-y: scroll;
+	}
 
 /* MDL Navigation */
 .mdl-navigation__link {
